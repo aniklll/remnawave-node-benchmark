@@ -48,7 +48,7 @@
 ### Вариант 1: Быстрый запуск (одной командой)
 
 ```bash
-wget -qO- https://raw.githubusercontent.com/anikl/remnawave-node-benchmark/main/remnawave-node-bench.sh | bash
+wget -qO- https://raw.githubusercontent.com/aniklll/remnawave-node-benchmark/main/remnawave-node-bench.sh | bash
 ```
 
 ### Вариант 2: Скачать и запустить
