@@ -55,7 +55,7 @@ wget -qO- https://raw.githubusercontent.com/aniklll/remnawave-node-benchmark/mai
 
 ```bash
 # Скачать
-wget https://raw.githubusercontent.com/YOUR-REPO/remnawave-node-bench.sh
+wget https://raw.githubusercontent.com/aniklll/remnawave-node-benchmark/remnawave-node-bench.sh
 
 # Сделать исполняемым
 chmod +x remnawave-node-bench.sh
